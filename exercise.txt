@@ -1,0 +1,1 @@
+{1=>{"french"=>"un", "english"=>"one"}, 2=>{"french"=>"deux", "english"=>"two"}, 3=>{"french"=>"trois", "english"=>"three"}, 4=>{"french"=>"quatre", "english"=>"four"}, 5=>{"french"=>"cinq", "english"=>"five"}, 6=>{"french"=>"six", "english"=>"six"}, 7=>{"french"=>"sept", "english"=>"seven"}, 8=>{"french"=>"huit", "english"=>"eight"}, 9=>{"french"=>"neuf", "english"=>"nine"}}
